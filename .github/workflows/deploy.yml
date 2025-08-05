@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGO_CLUSTER_ADDRESS: cluster0.icymz5y.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.icymz5y.mongodb.net
       MONGODB_USERNAME: batm8870
       MONGODB_PASSWORD: neiKkUp8qMiKpbGW
       PORT: 8080
